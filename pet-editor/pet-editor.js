@@ -2,7 +2,7 @@
 // this will check if we have a user and set signout link if it exists
 import '../auth/user.js';
 // > Part A: import upload image
-import { createPet, uploadImage } from '../fetch-utils.js'
+import { createPet, uploadImage } from '../fetch-utils.js';
 // > Part B: import fetch to create a pet
 
 /* Get DOM Elements */
